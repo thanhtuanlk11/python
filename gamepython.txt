@@ -1,0 +1,7 @@
+
+D:\flappybird>pyinstaller --onefile -w --icon=flappy.ico flappybrid.py
+ex: tải thư viện py
+--onefile: là cho vào trong 1 file
+-w: không bật cửa sổ console đen 
+--icon=flappy.ico  
+flappybrid.py : tên file 
